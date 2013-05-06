@@ -1,4 +1,7 @@
 
+// You'll need to add this file to your Processing Sketch Folder; http://www.leebyron.com/else/mesh/mesh-0002.zip
+// Also look at Lee Byron's library page for more examples; http://www.leebyron.com/else/mesh/
+
 import megamu.mesh.*;
 ArrayList vpoints = new ArrayList();
 boolean dragged;
